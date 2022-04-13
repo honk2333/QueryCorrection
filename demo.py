@@ -64,4 +64,7 @@ def test():
     print(word_pinyin)
     print(corrector.pinyin_dict.get(word_pinyin, 'na'))
 
-test()
+# test()
+
+if __name__ == '__name__':
+    
